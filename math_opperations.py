@@ -1,0 +1,6 @@
+a = int(input("Ведіть число"))
+b = int(input("Ведіть число"))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
