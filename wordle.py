@@ -1,6 +1,7 @@
 import word_generator
 import word_input
 import results
+
 while True:
     generated_word = word_generator.generate_word()
     max_attempts = 7
